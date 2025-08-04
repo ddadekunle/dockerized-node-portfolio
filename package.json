@@ -1,0 +1,12 @@
+{
+  "name": "devops-node-portfolio",
+  "version": "1.0.0",
+  "description": "Personal DevOps Portfolio Landing Page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
