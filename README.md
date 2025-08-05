@@ -12,7 +12,7 @@ The app is:
 ## Live Site
 
  **Live URL**  
- [https://dockerized-node-portfolio-production.up.railway.app)
+ https://dockerized-node-portfolio-production.up.railway.app
 
 
 
@@ -23,3 +23,8 @@ To run this application without cloning the codebase:
 ```bash
 docker pull ddadekunle/devops-portfolio:latest
 docker run -d -p 5000:5000 ddadekunle/devops-portfolio
+```
+
+
+## You can find the image here on Dockerhub
+https://hub.docker.com/r/ddadekunle/devops-portfolio
