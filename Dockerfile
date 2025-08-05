@@ -14,7 +14,7 @@ RUN npm install --omit=dev
 COPY . .
 
 # Expose port (used by Express)
-EXPOSE 5006
+EXPOSE 5000
 
 # Start the app
 CMD ["node", "server.js"]
