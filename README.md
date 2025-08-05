@@ -152,4 +152,4 @@ Cloud & DevOps Engineer
 
 ## 📝 License
 
-MIT — use, fork, deploy, or adapt freely.
+MIT — use, fork, deploy, or adapt freely
