@@ -75,7 +75,7 @@ docker.io/ddadekunle/devops-portfolio:latest
 
 ### Live App
 
-[https://devops-portfolio.up.railway.app](https://devops-portfolio.up.railway.app)
+[https://dockerized-node-portfolio-production.up.railway.app](https://dockerized-node-portfolio-production.up.railway.app)
 
 ### Runtime Behavior
 
@@ -154,8 +154,8 @@ You could easily configure a workflow that:
 **Damilare Adekunle**  
 Cloud & DevOps Engineer
 
--  Resume: [ddadekunle.com/resume](https://ddadekunle.com/resume)
--  Portfolio: [ddadekunle.com](https://ddadekunle.com)
+-  Resume: [dev.ddadekunle.com/resume](https://dev.ddadekunle.com/resume)
+-  Portfolio: [dev.ddadekunle.com](https://dev.ddadekunle.com)
 -  GitHub: [github.com/ddadekunle](https://github.com/ddadekunle)
 -  LinkedIn: [linkedin.com/in/ddadekunle](https://linkedin.com/in/ddadekunle)
 -  Email: [adekunledare12@gmail.com](mailto:adekunledare12@gmail.com)
