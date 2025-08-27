@@ -64,7 +64,7 @@ open http://localhost:5050
 
 ### Strategy
 
-The app is deployed using Railway’s container runtime — **not source code**.  
+The app is deployed using Railway’s container runtime — **not the source code**.  
 The cloud pulls the image from Docker Hub and runs it without building.
 
 ### Registry
